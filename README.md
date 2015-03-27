@@ -1,5 +1,14 @@
 # Roman Numeral Kata
-The Romans wrote their numbers using letters; specifically the letters 'I' meaning '1', 'V' meaning '5', 'X' meaning '10', 'L' meaning '50', 'C' meaning '100', 'D' meaning '500', and 'M' meaning '1000'. There were certain rules that the numerals followed which should be observed.
+The Romans wrote their numbers using letters; specifically the letters 
+* 'I' meaning '1'
+* 'V' meaning '5'
+* 'X' meaning '10'
+* 'L' meaning '50'
+* 'C' meaning '100'
+* 'D' meaning '500'
+* 'M' meaning '1000'
+
+There were certain rules that the numerals followed which should be observed.
 
 ## Requirements
 * The symbols 'I', 'X', 'C', and 'M' can be repeated at most 3 times in a row. 
