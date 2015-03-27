@@ -8,6 +8,12 @@ namespace roman_numeral_tests
     {
         [Test]
         [TestCase("I",1)]
+        [TestCase("V",5)]
+        [TestCase("X",10)]
+        [TestCase("L",50)]
+        [TestCase("C",100)]
+        [TestCase("D",500)]
+        [TestCase("M",1000)]
         public void Convert_RomanNumeral_ConvertsToArabicNumber(string roman, int expectedArabic)
         {
             // Arrange
