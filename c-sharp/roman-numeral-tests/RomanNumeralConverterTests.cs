@@ -6,7 +6,6 @@ namespace roman_numeral_tests
     [TestFixture]
     public class RomanNumeralConverterTests
     {
-        [Test]
         [TestCase("I",1)]
         [TestCase("V",5)]
         [TestCase("X",10)]
